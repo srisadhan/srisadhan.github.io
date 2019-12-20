@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed Robotics, Human-robot interaction and optimal control.
+bio: My research interests include robotics, Human-robot interaction and optimal control.
 
 interests:
-- Human-Robot Interaction
+- Human-Robot Interaction (using EMG signals)
 - Optimal Control
 - Reinforcement Learning
+- Riemann manifolds
 
 education:
   courses:
@@ -67,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-Sri Sadhan Jujjavarapu is a Ph.D. candidate in the Human in the Loop Systems Lab at the Univerity at Buffalo. 
+Sri Sadhan Jujjavarapu is a Ph.D. candidate in the [Human in the Loop Systems Lab](http://www.acsu.buffalo.edu/~ehsanesf/) at the Univerity at Buffalo. His research interests include mechanism design, optimal control, and Human-in-the-loop control for human-robot interaction applications. 
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
