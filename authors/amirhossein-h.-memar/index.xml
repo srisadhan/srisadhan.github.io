@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amirhossein H. Memar | Sri Sadhan</title>
+    <link>/authors/amirhossein-h.-memar/</link>
+      <atom:link href="/authors/amirhossein-h.-memar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amirhossein H. Memar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Amirhossein H. Memar</title>
+      <link>/authors/amirhossein-h.-memar/</link>
+    </image>
+    
+    <item>
+      <title>Variable Stiffness Mechanism for Suppressing Unintended Forces in Physical Human–Robot Interaction</title>
+      <link>/publication/jmr-19/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jmr-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a 2D Haptic System With Passive Variable Stiffness Using Permanent Magnets for Upper-Limb Rehabilitation</title>
+      <link>/publication/idetc-17/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/idetc-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

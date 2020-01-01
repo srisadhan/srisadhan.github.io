@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kinect, Point cloud library | Sri Sadhan</title>
+    <link>/tags/kinect-point-cloud-library/</link>
+      <atom:link href="/tags/kinect-point-cloud-library/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kinect, Point cloud library</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Kinect, Point cloud library</title>
+      <link>/tags/kinect-point-cloud-library/</link>
+    </image>
+    
+    <item>
+      <title>3D real-time pose detection of objects</title>
+      <link>/project/object_tracking/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/project/object_tracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

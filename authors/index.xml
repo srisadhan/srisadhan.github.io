@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Sri Sadhan</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Dr. Ehsan T Esfahani</title>
+      <link>/authors/dr.-ehsan-t-esfahani/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/dr.-ehsan-t-esfahani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hemanth Manjunatha</title>
+      <link>/authors/hemanth-manjunatha/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/hemanth-manjunatha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sri Sadhan Jujjavarapu</title>
+      <link>/authors/sri-sadhan-jujjavarapu/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sri-sadhan-jujjavarapu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ehsan T. Esfahani</title>
+      <link>/authors/ehsan-t.-esfahani/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ehsan-t.-esfahani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amir Memar</title>
+      <link>/authors/amir-memar/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/amir-memar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amirhossein H. Memar</title>
+      <link>/authors/amirhossein-h.-memar/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/amirhossein-h.-memar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Amin Karami</title>
+      <link>/authors/m.-amin-karami/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-amin-karami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Karthik Dantu</title>
+      <link>/authors/dr.-karthik-dantu/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/dr.-karthik-dantu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Sri Sadhan Jujjavarapu is a Ph.D. candidate in the &lt;a href=&#34;http://www.acsu.buffalo.edu/~ehsanesf/&#34; target=&#34;_blank&#34;&gt;Human in the Loop Systems Lab&lt;/a&gt; at the Univerity at Buffalo. His research interests include mechanism design, optimal control, and Human-in-the-loop control for human-robot interaction applications.&lt;/p&gt;
+
+&lt;!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
