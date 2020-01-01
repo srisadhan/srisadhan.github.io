@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Mechanical 
     institution: University at Buffalo
-    year: 2021 (tentative)
+    year: 2021 (expected)
   - course: MS in Mechanical 
     institution: University at Buffalo 
     year: 2017

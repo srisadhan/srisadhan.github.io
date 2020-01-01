@@ -1,42 +1,33 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+# Steps to build website on local server
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+## Using Rstudio
+install the blogdown package.
+- build website : blogdown::build_site() : This will create a folder named public in the repository 
+- start server : blogdown::serve_site()
+- stop server : blogdown::stop_server()
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+## Using Hugo in terminal
+hugo server -D
 
-- [**Get Started**](#install)
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+# Steps to update the github.io
+**The location of the personal website in my drive is C:/Hugo/Sites/personal-website**
 
-## Install
+## There are two major steps:
+### Step 1: Update the personal-website repository
+- Check the repository origin : "git remote -v" (if the head directs to some other repo other than "personal-website", git remote add origin <repository path on github>)
+- initialize the repository   : "git init"
+- update the local repository : "git pull" 
+- add the local files         : "git add ." (public folder will not be added as it is ignored in gitignore)
+- commit the local files      : "git commit -m "Commit message""
+- push the files to the repo  : "git push origin master"
 
-You can choose from one of the following four methods to install:
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
-
-## License
-
-Copyright 2017-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+### Step 2: Update the srisadha.github.io repository
+cd public
+- Check the repository origin : "git remote -v" (if the head directs to some other repo other than "srisadhan.github.io", "git remote add origin <repository path on github>")
+- initialize the repository   : "git init"
+- update the local repository : "git pull" (if this does not work, do "git pull origin master --allow-unrelated-histories")
+- add the local files         : "git add ." (public folder will not be added as it is ignored in gitignore)
+- commit the local files      : "git commit -m "Commit message""
+- push the files to the repo  : "git push origin master "
