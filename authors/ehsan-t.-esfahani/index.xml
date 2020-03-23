@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ehsan T. Esfahani | Sri Sadhan</title>
+    <link>/authors/ehsan-t.-esfahani/</link>
+      <atom:link href="/authors/ehsan-t.-esfahani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ehsan T. Esfahani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ehsan T. Esfahani</title>
+      <link>/authors/ehsan-t.-esfahani/</link>
+    </image>
+    
+    <item>
+      <title>Stiffness Based Stability Enhancement in Human-Robot Collaboration</title>
+      <link>/publication/idetc-19/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/idetc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Stability in Upper Limb Rehabilitation Using Variable Stiffness</title>
+      <link>/publication/embc-19/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/embc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable Stiffness Mechanism for Suppressing Unintended Forces in Physical Human–Robot Interaction</title>
+      <link>/publication/jmr-19/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jmr-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable Stiffness Mechanism for Tremor Suppression in Human-Robot Interaction</title>
+      <link>/publication/idetc-18/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/idetc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a 2D Haptic System With Passive Variable Stiffness Using Permanent Magnets for Upper-Limb Rehabilitation</title>
+      <link>/publication/idetc-17/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/idetc-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

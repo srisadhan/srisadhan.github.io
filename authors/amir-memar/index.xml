@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amir Memar | Sri Sadhan</title>
+    <link>/authors/amir-memar/</link>
+      <atom:link href="/authors/amir-memar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amir Memar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Amir Memar</title>
+      <link>/authors/amir-memar/</link>
+    </image>
+    
+    <item>
+      <title>Variable Stiffness Gripper</title>
+      <link>/project/gripper/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/gripper/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: All the above images on this page are shot by &lt;strong&gt;Douglas Levere&lt;/strong&gt; and are the property of &lt;a href=&#34;http://www.acsu.buffalo.edu/~ehsanesf/&#34; target=&#34;_blank&#34;&gt;Human in the Loop Systems lab&lt;/a&gt;, University at Buffalo. Please refer to this &lt;a href=&#34;http://www.buffalo.edu/ubnow/stories/2019/09/esfahani-robotic-gripper.html&#34; target=&#34;_blank&#34;&gt;Website&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/files/spaghetti-stick.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
