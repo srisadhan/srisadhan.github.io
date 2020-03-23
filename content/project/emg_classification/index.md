@@ -2,8 +2,8 @@
 title: Task type classification of Human-robot collaboration using EMG signals.
 
 authors: 
-- Sri Sadhan Jujjavarapu
 - Hemanth Manjunatha
+- Sri Sadhan Jujjavarapu
 - Dr. Ehsan T Esfahani
 summary: Online classification of the task type using human physiological signals
 
